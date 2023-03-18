@@ -3,7 +3,7 @@
 /*
 Plugin Name:  WPSST Google Translate Button
 Plugin URI:   https://www.syriasmart.net
-Description:  Add more columns on admin oreder page. 
+Description:  Use this ShortCode "[translate_dropdown]" for button. 
 Version:      1.0
 Author:       Syria Smart Technology 
 Author URI:   https://www.syriasmart.net
